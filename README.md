@@ -14,7 +14,7 @@
 
 - 💬 I'm proficient in **C++, C#, Python, Django, Django REST Framework, PostgreSQL, Javascript, Typescript, React, Redux, Tailwind CSS, CSS, HTML**
 
-- 📫 How to reach me **work.guptakush@gmail.com**
+- 📫 Reach out to me on **work.guptakush@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xP1LkIZVb3jgUuuw3yWWzuf-JgGY7hfE/view?usp=sharing](https://drive.google.com/file/d/1xP1LkIZVb3jgUuuw3yWWzuf-JgGY7hfE/view?usp=sharing)
 
