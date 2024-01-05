@@ -4,21 +4,17 @@
 
 <p align="left"> <a href="https://twitter.com/phoenix0347" target="blank"><img src="https://img.shields.io/twitter/follow/phoenix0347?logo=twitter&style=for-the-badge" alt="phoenix0347" /></a> </p>
 
-- 🔭 I’m currently working on [ONDC Web App](https://github.com/Akash-003/maverick/tree/dev)
+- 🔭 I’m currently working on ONDC Web App
 
 - 🌱 I’m currently learning **Dot Net Core, C#**
 
-- 👯 I’m looking to collaborate on [DocuShare](https://github.com/Kushagra0347/docushare)
-
-- 🤝 I’m looking for help with [DocuShare](https://github.com/Kushagra0347/docushare)
-
-- 💬 I'm proficient in **C++, C#, Python, Django, Django REST Framework, PostgreSQL, Javascript, Typescript, React, Redux, Tailwind CSS, CSS, HTML**
+- 💬 I'm proficient in **C++, Python, Django, Django REST Framework, PostgreSQL, jQuery, Javascript, Typescript, React, Redux, Tailwind CSS, CSS, HTML**
 
 - 📫 Reach out to me on **work.guptakush@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xP1LkIZVb3jgUuuw3yWWzuf-JgGY7hfE/view?usp=sharing](https://drive.google.com/file/d/1xP1LkIZVb3jgUuuw3yWWzuf-JgGY7hfE/view?usp=sharing)
 
-- ⚡ Fun fact **I like to play guitar 🎸, sing 🎤🧑‍🎤, travel ✈️, listening to the same old playlist of mine :D**
+- ⚡ Fun fact **I like to play guitar 🎸, sing 🎤🧑‍🎤, travel ✈️, listen to the same old playlist of mine :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
